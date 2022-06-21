@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #88b04b;
+    color: #ffffee;
+    padding: 0 40px;
+}
+
+
+.container {
+    margin: 40px auto;
+    padding: 20px;
+    line-height: 1.5em;
+    border-radius: 5px;
+    background-color: #fff;
+    
+}
+
+.my-form {
+    padding: 0 0 20px 0;
+}
+
+
+#header-title{
+    font-weight: bolder;
+    margin: 10px;
+}
+
+#h2 {
+    font-weight: bolder;
+}
+
